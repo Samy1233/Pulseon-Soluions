@@ -215,7 +215,7 @@ export default function Home() {
   <div className="absolute inset-0 pointer-events-none">
     <Image
       src="/images/heroimg.webp"
-      
+      alt="Pulseon hero"
       fill
       priority
       className="object-cover opacity-20"
