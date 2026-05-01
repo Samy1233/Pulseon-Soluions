@@ -133,7 +133,8 @@ export default function Home() {
             onClick={closeMobileMenu}
           ><div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-cyan-500/10 ring-1 ring-cyan-400/30 shadow-lg transform transition duration-300 hover:scale-110 hover:-translate-y-1 hover:shadow-cyan-400/40">
   <Image
-    src="/pulseonlogo.jpeg"
+  src="/pulseonlogo.jpeg"
+  alt="Pulseon Logo"
     width={140}
     height={100}
     className="object-contain drop-shadow-md transition-transform duration-300 hover:scale-110"
