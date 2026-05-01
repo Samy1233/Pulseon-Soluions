@@ -131,6 +131,7 @@ export default function Home() {
             href="#home"
             className="flex items-center gap-2 sm:gap-3"
             onClick={closeMobileMenu}
+            ></a>
           <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-cyan-500/10 ring-1 ring-cyan-400/30 shadow-lg p-[5%] overflow-hidden">
   <Image
     src="/pulseonlogo.jpeg"
