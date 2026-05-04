@@ -132,7 +132,7 @@ export default function Home() {
             className="flex items-center gap-2 sm:gap-3"
             onClick={closeMobileMenu}
             >
-          <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-cyan-300/10 ring-1 ring-cyan-200/30 shadow-lg p-[5%] overflow-hidden">
+          <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-cyan-300/10 shadow-md overflow-hidden transition-all duration-300 hover:shadow-[0_0_20px_rgba(34,211,238,0.7)]">
   <Image
     src="/pulseonlogo.jpeg"
     alt="Pulseon Logo"
