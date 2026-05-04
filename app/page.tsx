@@ -103,7 +103,7 @@ export default function Home() {
       const data = await response.json();
 
       if (!response.ok) {
-        throw new Error(data.error || 'Something went wrong.');
+        throw new Error(data.message || 'Something went wrong.');
       }
 
       setStatusMessage(
