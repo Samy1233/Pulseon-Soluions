@@ -214,7 +214,7 @@ export default function Home() {
       </header>
 <section id="home" className="relative overflow-hidden">
   <div className="absolute inset-0 pointer-events-none">
-    <Image
+  {/*<Image
       src="/images/heroimg.webp"
       alt="Pulseon hero"
       fill
@@ -222,7 +222,7 @@ export default function Home() {
       className="object-cover opacity-20"
     />
     <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(34,211,238,0.18),transparent_25%),linear-gradient(180deg,rgba(7,17,31,0.78),rgba(7,17,31,0.98))]" />
-  </div>
+  </div>*/}
 
   <div className="relative">
     {/* Mobile Hero */}
