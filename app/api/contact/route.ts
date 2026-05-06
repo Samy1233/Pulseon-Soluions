@@ -83,7 +83,7 @@ export async function POST(request: Request) {
                       <td style="background:#0f172a; padding:30px; text-align:center;">
                         <h1 style="margin:0; font-size:26px; color:#22d3ee;">Pulseon Solutions</h1>
                         <p style="margin:6px 0 0; font-size:14px; color:#cbd5e1;">
-                          Build smarter. Scale faster.
+                          Build smarter. Scale faster
                         </p>
                       </td>
                     </tr>
